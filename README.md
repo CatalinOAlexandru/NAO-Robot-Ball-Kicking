@@ -3,4 +3,5 @@ Part of a Hack Week in 2018, we programmed NAO robots to go to a football and ki
 
 ------------------------------------------------------------------------
 
-![Video of Nao robot kicking the ball](https://youtu.be/XFJO1Ov9x1k)
+Video of Nao robot kicking the ball:
+https://youtu.be/XFJO1Ov9x1k
